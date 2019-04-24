@@ -1,10 +1,2 @@
- Volume in drive C has no label.
- Volume Serial Number is 96E7-6F40
+changes
 
- Directory of C:\Users\manognab\Desktop\MyProject
-
-24-04-2019  08:25 PM    <DIR>          .
-24-04-2019  08:25 PM    <DIR>          ..
-24-04-2019  08:25 PM                 0 f1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)   9,498,279,936 bytes free
